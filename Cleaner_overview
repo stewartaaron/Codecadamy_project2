@@ -1,0 +1,8 @@
+this is a quick over view of the development process in Jupyter
+1. examining the stucture of .db files
+2. examining the stucture of several of the data frames
+3. manually checking duplicates and NaN values (code was removed from jupyter)
+4. rev 1 of clean_loader was written to use connectors that where previously established in notebook
+5. testing was done to ensure that files where generated 
+
+-python code has been exported transfered to .py
